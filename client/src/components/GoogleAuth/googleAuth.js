@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 const firebaseConfig = {
-    apiKey: "AIzaSyD93YcSwcR8UHqi6xuNFzeHSyjoWC2puc8",
+    apiKey: "xenos",
     authDomain: "hotelbook-b6654.firebaseapp.com",
     projectId: "hotelbook-b6654",
     storageBucket: "hotelbook-b6654.appspot.com",
